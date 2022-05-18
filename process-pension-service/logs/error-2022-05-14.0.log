@@ -1,0 +1,58 @@
+2022-05-14_17-51-20 [main] ERROR c.p.p.e.GlobalExceptionHandler - null
+2022-05-14_17-51-20 [main] ERROR c.p.p.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-14_17-51-20 [main] ERROR c.p.p.c.ProcessPensionController - Invalid Token
+2022-05-14_17-51-20 [main] ERROR c.p.p.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-14_18-43-17 [main] ERROR c.p.p.e.GlobalExceptionHandler - null
+2022-05-14_18-43-17 [main] ERROR c.p.p.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-14_18-43-17 [main] ERROR c.p.p.c.ProcessPensionController - Invalid Token
+2022-05-14_18-43-17 [main] ERROR c.p.p.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-14_18-47-09 [main] ERROR c.p.p.e.GlobalExceptionHandler - null
+2022-05-14_18-47-09 [main] ERROR c.p.p.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-14_18-47-09 [main] ERROR c.p.p.c.ProcessPensionController - Invalid Token
+2022-05-14_18-47-09 [main] ERROR c.p.p.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-14_18-48-36 [main] ERROR c.p.p.e.GlobalExceptionHandler - null
+2022-05-14_18-48-36 [main] ERROR c.p.p.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-14_18-48-36 [main] ERROR c.p.p.c.ProcessPensionController - Invalid Token
+2022-05-14_18-48-36 [main] ERROR c.p.p.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-14_18-49-44 [main] ERROR c.p.p.e.GlobalExceptionHandler - null
+2022-05-14_18-49-44 [main] ERROR c.p.p.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-14_18-49-44 [main] ERROR c.p.p.c.ProcessPensionController - Invalid Token
+2022-05-14_18-49-44 [main] ERROR c.p.p.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-14_18-51-20 [main] ERROR c.p.p.e.GlobalExceptionHandler - null
+2022-05-14_18-51-20 [main] ERROR c.p.p.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-14_18-51-20 [main] ERROR c.p.p.c.ProcessPensionController - Invalid Token
+2022-05-14_18-51-20 [main] ERROR c.p.p.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-14_19-10-03 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field processPensionServiceImpl in com.pms.process.controller.ProcessPensionController required a bean of type 'com.pms.process.service.ProcessPensionServiceImpl' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.pms.process.service.ProcessPensionServiceImpl' in your configuration.
+
+2022-05-14_19-10-20 [main] ERROR c.p.p.e.GlobalExceptionHandler - null
+2022-05-14_19-10-20 [main] ERROR c.p.p.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-14_19-10-20 [main] ERROR c.p.p.c.ProcessPensionController - Invalid Token
+2022-05-14_19-10-20 [main] ERROR c.p.p.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-14_19-10-51 [main] ERROR c.p.p.e.GlobalExceptionHandler - null
+2022-05-14_19-10-51 [main] ERROR c.p.p.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-14_19-10-51 [main] ERROR c.p.p.c.ProcessPensionController - Invalid Token
+2022-05-14_19-10-51 [main] ERROR c.p.p.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-14_19-14-58 [main] ERROR c.p.p.e.GlobalExceptionHandler - null
+2022-05-14_19-14-58 [main] ERROR c.p.p.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-14_19-14-58 [main] ERROR c.p.p.c.ProcessPensionController - Invalid Token
+2022-05-14_19-14-58 [main] ERROR c.p.p.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-14_19-25-12 [main] ERROR c.p.p.e.GlobalExceptionHandler - null
+2022-05-14_19-25-12 [main] ERROR c.p.p.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-14_19-25-12 [main] ERROR c.p.p.c.ProcessPensionController - Invalid Token
+2022-05-14_19-25-12 [main] ERROR c.p.p.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
