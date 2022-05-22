@@ -1,0 +1,37 @@
+2022-05-22_13-37-12 [http-nio-8200-exec-2] ERROR c.p.d.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-05-22_13-37-12 [http-nio-8200-exec-2] ERROR c.p.d.e.GlobalExceptionHandler - connect timed out executing POST http://35.85.254.104:8400/auth/api/v1/authorize
+2022-05-22_15-29-10 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_15-29-10 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_15-29-10 [main] ERROR c.p.d.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-22_15-29-10 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_15-29-10 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_15-59-05 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_15-59-05 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_15-59-05 [main] ERROR c.p.d.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-22_15-59-05 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_15-59-05 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_18-20-41 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_18-20-41 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_18-20-41 [main] ERROR c.p.d.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-22_18-20-41 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_18-20-41 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_18-51-16 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_18-51-16 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_18-51-16 [main] ERROR c.p.d.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-22_18-51-16 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_18-51-16 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_19-13-47 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_19-13-47 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_19-13-47 [main] ERROR c.p.d.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-22_19-13-47 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_19-13-47 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_19-58-48 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_19-58-48 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_19-58-48 [main] ERROR c.p.d.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-22_19-58-48 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_19-58-48 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_23-59-00 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_23-59-00 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-22_23-59-00 [main] ERROR c.p.d.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-22_23-59-00 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-22_23-59-00 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token

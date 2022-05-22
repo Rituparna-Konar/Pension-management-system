@@ -1,0 +1,14 @@
+2022-05-18_18-07-41 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-18_18-07-41 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-18_18-07-41 [main] ERROR c.p.d.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-18_18-07-41 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-18_18-07-41 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-18_19-52-04 [http-nio-8200-exec-2] ERROR c.p.d.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-05-18_19-52-04 [http-nio-8200-exec-2] ERROR c.p.d.e.GlobalExceptionHandler - Connection refused: connect executing POST http://localhost:8400/auth/api/v1/authorize
+2022-05-18_21-21-52 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-18_21-21-52 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-18_21-21-52 [main] ERROR c.p.d.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-18_21-21-52 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-18_21-21-52 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-18_21-39-55 [http-nio-8200-exec-1] ERROR c.p.d.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-05-18_21-39-55 [http-nio-8200-exec-1] ERROR c.p.d.e.GlobalExceptionHandler - [400] during [POST] to [http://35.87.230.27:8400/auth/api/v1/authorize] [AuthClient#authorizeTheRequest(String)]: []

@@ -1,0 +1,10 @@
+2022-05-20_19-06-29 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-20_19-06-29 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-20_19-06-29 [main] ERROR c.p.d.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-20_19-06-29 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-20_19-06-29 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-20_20-35-31 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-20_20-35-31 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-20_20-35-31 [main] ERROR c.p.d.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-20_20-35-31 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-05-20_20-35-31 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token

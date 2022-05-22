@@ -1,7 +1,0 @@
-2022-05-07_17-47-30 [http-nio-8200-exec-3] ERROR c.p.d.e.GlobalExceptionHandler - Aadhar Card Number is not Valid. Please check it and try again
-2022-05-07_17-47-30 [http-nio-8200-exec-2] ERROR c.p.d.e.GlobalExceptionHandler - Aadhar Card Number is not Valid. Please check it and try again
-2022-05-07_17-47-30 [http-nio-8200-exec-8] ERROR c.p.d.e.GlobalExceptionHandler - Aadhar Card Number is not Valid. Please check it and try again
-2022-05-07_17-47-30 [http-nio-8200-exec-2] ERROR c.p.d.e.GlobalExceptionHandler - Aadhar Card Number is not Valid. Please check it and try again
-2022-05-07_17-47-30 [http-nio-8200-exec-8] ERROR c.p.d.e.GlobalExceptionHandler - Aadhar Card Number is not Valid. Please check it and try again
-2022-05-07_19-10-35 [http-nio-8200-exec-1] ERROR c.p.d.c.PensionerDetailController - Invalid Token
-2022-05-07_19-10-35 [http-nio-8200-exec-1] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
