@@ -20,7 +20,7 @@ import io.swagger.annotations.ApiParam;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-@CrossOrigin
+@CrossOrigin(origins = "*")
 @RestController
 public class PensionerDetailController extends BaseController {
 	
