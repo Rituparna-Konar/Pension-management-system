@@ -2,3 +2,7 @@
 2022-05-23_00-22-10 [main] ERROR c.p.p.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
 2022-05-23_00-22-10 [main] ERROR c.p.p.c.ProcessPensionController - Invalid Token
 2022-05-23_00-22-10 [main] ERROR c.p.p.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-05-23_19-12-20 [main] ERROR c.p.p.e.GlobalExceptionHandler - null
+2022-05-23_19-12-20 [main] ERROR c.p.p.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
+2022-05-23_19-12-20 [main] ERROR c.p.p.c.ProcessPensionController - Invalid Token
+2022-05-23_19-12-20 [main] ERROR c.p.p.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
